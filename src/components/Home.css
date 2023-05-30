@@ -1,0 +1,10 @@
+.card-wrapper{
+    column-gap: 50px;
+}
+
+.button{
+    background-color:black !important;
+    margin-left: 0px !important;
+    border-color: black !important;  
+    margin-right: 10px !important; 
+}
